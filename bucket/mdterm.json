@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/fasterinnerlooper/mdterm/releases/download/v$version/mdterm-win-x64.zip",
+      "url": "https://github.com/fasterinnerlooper/mdterm/releases/download/v1.2.11/mdterm-win-x64.zip",
       "hash": "sha256:2ee79bd02c167168bd188e771e60a3d848a10a2d0334e109c3d8251ced14768f",
       "extract_dir": "mdterm-win-x64"
     }
@@ -18,7 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/fasterinnerlooper/mdterm/releases/download/v$version/mdterm-win-x64.zip"
+        "url": "https://github.com/fasterinnerlooper/mdterm/releases/download/v1.2.11/mdterm-win-x64.zip"
       }
     }
   }
